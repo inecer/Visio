@@ -1,0 +1,1 @@
+[REMARQUE] La navbar doit être modifié en fonction du rôle attribué à l'utilisateur
